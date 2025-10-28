@@ -74,4 +74,4 @@ function UpdateProfileForm({ children, guest }) {
 //   );
 // }
 
-// export default UpdateProfileForm;
+export default UpdateProfileForm;
